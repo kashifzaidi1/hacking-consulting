@@ -60,7 +60,7 @@
    * [A/B Testing](ab_testing.md)
    * [Feature Flags](feature_flags.md)
 * [Sales](sales.md)
-   * Leads
+   * [Leads](leads.md)
    * Understanding Product Vision
    * On Site Customer
    * NDAs
