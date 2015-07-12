@@ -64,7 +64,7 @@
    * [Understanding Product Vision](understanding_product_vision.md)
    * [On Site Customer](on_site_customer.md)
    * [NDAs](ndas.md)
-   * Roles
+   * [Roles](roles.md)
    * [No Fixed Bids](no_fixed_bids.md)
    * [Budget](budget.md)
    * Rate
