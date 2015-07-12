@@ -7,4 +7,5 @@
 * [Choose Platforms](choose_platforms.md)
 * [Laptop Setup](laptop_setup.md)
 * [Planning](planning.md)
+* Designing
 
