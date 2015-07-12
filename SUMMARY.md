@@ -43,6 +43,7 @@
    * [Acceptance Tests](acceptance_tests.md)
    * [Refactoring](refactoring.md)
    * [Code Reviews](code_reviews.md)
+   * Continuous Integration
 * [Production](production.md)
 * [Measuring](measuring.md)
 * [Sales](sales.md)
