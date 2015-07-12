@@ -80,5 +80,6 @@
 * [Operations](operations.md)
    * Expenses
    * Email
+   * Calendar
 * [Sharing](sharing.md)
 
