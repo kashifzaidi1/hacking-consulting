@@ -83,5 +83,6 @@
    * Calendar
    * Documents
    * Meetings
+   * Accounting
 * [Sharing](sharing.md)
 
