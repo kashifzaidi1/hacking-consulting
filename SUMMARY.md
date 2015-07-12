@@ -63,7 +63,7 @@
    * [Leads](leads.md)
    * Understanding Product Vision
    * [On Site Customer](on_site_customer.md)
-   * NDAs
+   * [NDAs](ndas.md)
    * Roles
    * No Fixed Bids
    * Budget
