@@ -27,7 +27,7 @@
    * [Daily Standups](daily_standups.md)
    * [Tasks](tasks.md)
    * [Weekly Meeting](weekly_meeting.md)
-   * Altering the Process
+   * [Altering the Process](altering_the_process.md)
 * [Designing](designing.md)
 * [Developing](developing.md)
 * [Production](production.md)
