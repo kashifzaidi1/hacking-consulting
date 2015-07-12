@@ -20,6 +20,7 @@
    * [Databases](databases.md)
    * [Liscenses](liscenses.md)
 * [Laptop Setup](laptop_setup.md)
+   * Laptop
 * [Planning](planning.md)
 * [Designing](designing.md)
 * [Developing](developing.md)
