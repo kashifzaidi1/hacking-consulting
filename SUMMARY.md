@@ -47,6 +47,7 @@
 * [Production](production.md)
    * [Checklist](checklist.md)
    * [Domain Names](domain_names.md)
+   * SSL Certificates
 * [Measuring](measuring.md)
 * [Sales](sales.md)
 * [Hiring](hiring.md)
