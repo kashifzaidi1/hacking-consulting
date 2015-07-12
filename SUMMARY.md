@@ -72,7 +72,7 @@
    * [Contract](contract.md)
    * [Invoices](invoices.md)
 * [Hiring](hiring.md)
-   * Recruiting
+   * [Recruiting](recruiting.md)
    * Interviewing
    * Offer and Onboarding
    * Compensation
