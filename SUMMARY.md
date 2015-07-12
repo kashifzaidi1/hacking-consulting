@@ -57,7 +57,7 @@
    * [AAARR](aaarr.md)
    * [Instrumentation](instrumentation.md)
    * [Subscription Metrics](subscription_metrics.md)
-   * A/B Testing
+   * [A/B Testing](ab_testing.md)
 * [Sales](sales.md)
 * [Hiring](hiring.md)
 * [Operations](operations.md)
