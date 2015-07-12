@@ -37,7 +37,7 @@
    * [User Interviews & Usability Testing](user_interviews_&_usability_testing.md)
 * [Developing](developing.md)
    * [Version Control](version_control.md)
-   * Style Guide
+   * [Style Guide](style_guide.md)
 * [Production](production.md)
 * [Measuring](measuring.md)
 * [Sales](sales.md)
