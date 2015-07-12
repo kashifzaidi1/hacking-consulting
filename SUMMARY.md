@@ -10,7 +10,7 @@
    * [Understand](understand.md)
    * [Diverge](diverge.md)
    * [Converge](converge.md)
-   * Prototype
+   * [Prototype](prototype.md)
 * [Choose Platforms](choose_platforms.md)
 * [Laptop Setup](laptop_setup.md)
 * [Planning](planning.md)
