@@ -84,5 +84,6 @@
    * Documents
    * Meetings
    * Accounting
+   * Legal
 * [Sharing](sharing.md)
 
