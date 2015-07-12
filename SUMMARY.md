@@ -66,6 +66,7 @@
    * NDAs
    * Roles
    * No Fixed Bids
+   * Budget
 * [Hiring](hiring.md)
 * [Operations](operations.md)
 * [Sharing](sharing.md)
