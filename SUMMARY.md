@@ -86,4 +86,5 @@
    * [Accounting](accounting.md)
    * [Legal](legal.md)
 * [Sharing](sharing.md)
+   * Blog
 
