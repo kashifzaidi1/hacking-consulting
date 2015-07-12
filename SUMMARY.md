@@ -9,7 +9,7 @@
    * [Prep work](prep_work.md)
    * [Understand](understand.md)
    * [Diverge](diverge.md)
-   * Converge
+   * [Converge](converge.md)
 * [Choose Platforms](choose_platforms.md)
 * [Laptop Setup](laptop_setup.md)
 * [Planning](planning.md)
