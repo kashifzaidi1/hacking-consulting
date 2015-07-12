@@ -73,6 +73,7 @@
    * [Invoices](invoices.md)
 * [Hiring](hiring.md)
    * Recruiting
+   * Interviewing
 * [Operations](operations.md)
 * [Sharing](sharing.md)
 
