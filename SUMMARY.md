@@ -79,5 +79,6 @@
    * [Quarterly Reviews](quarterly_reviews.md)
 * [Operations](operations.md)
    * Expenses
+   * Email
 * [Sharing](sharing.md)
 
