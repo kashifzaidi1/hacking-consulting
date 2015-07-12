@@ -70,6 +70,7 @@
    * Rate
    * Typical Projects
    * Contract
+   * Invoices
 * [Hiring](hiring.md)
 * [Operations](operations.md)
 * [Sharing](sharing.md)
