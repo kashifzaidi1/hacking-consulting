@@ -55,6 +55,7 @@
    * [Payment Processing](payment_processing.md)
 * [Measuring](measuring.md)
    * [AAARR](aaarr.md)
+   * Instrumentation
 * [Sales](sales.md)
 * [Hiring](hiring.md)
 * [Operations](operations.md)
