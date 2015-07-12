@@ -64,6 +64,7 @@
    * Understanding Product Vision
    * On Site Customer
    * NDAs
+   * Roles
 * [Hiring](hiring.md)
 * [Operations](operations.md)
 * [Sharing](sharing.md)
