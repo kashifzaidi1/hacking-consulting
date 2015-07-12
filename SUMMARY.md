@@ -78,7 +78,7 @@
    * [Compensation](compensation.md)
    * [Quarterly Reviews](quarterly_reviews.md)
 * [Operations](operations.md)
-   * Expenses
+   * [Expenses](expenses.md)
    * Email
    * Calendar
    * Documents
