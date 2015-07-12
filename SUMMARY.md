@@ -84,6 +84,6 @@
    * [Documents](documents.md)
    * [Meetings](meetings.md)
    * [Accounting](accounting.md)
-   * Legal
+   * [Legal](legal.md)
 * [Sharing](sharing.md)
 
