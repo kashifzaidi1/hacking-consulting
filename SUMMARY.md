@@ -80,7 +80,7 @@
 * [Operations](operations.md)
    * [Expenses](expenses.md)
    * [Email](email.md)
-   * Calendar
+   * [Calendar](calendar.md)
    * Documents
    * Meetings
    * Accounting
