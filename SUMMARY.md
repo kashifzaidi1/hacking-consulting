@@ -15,7 +15,7 @@
 * [Choose Platforms](choose_platforms.md)
    * [Web Apps](web_apps.md)
    * [Mobile Apps](mobile_apps.md)
-   * Programming Languages
+   * [Programming Languages](programming_languages.md)
 * [Laptop Setup](laptop_setup.md)
 * [Planning](planning.md)
 * [Designing](designing.md)
