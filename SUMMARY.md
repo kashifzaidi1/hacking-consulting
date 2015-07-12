@@ -34,6 +34,7 @@
    * [User Interface](user_interface.md)
    * [Interaction Design](interaction_design.md)
    * [Visual Design](visual_design.md)
+   * User Interviews & Usability Testing
 * [Developing](developing.md)
 * [Production](production.md)
 * [Measuring](measuring.md)
