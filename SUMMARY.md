@@ -72,6 +72,7 @@
    * [Contract](contract.md)
    * [Invoices](invoices.md)
 * [Hiring](hiring.md)
+   * Recruiting
 * [Operations](operations.md)
 * [Sharing](sharing.md)
 
