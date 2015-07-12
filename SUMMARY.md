@@ -81,5 +81,6 @@
    * Expenses
    * Email
    * Calendar
+   * Documents
 * [Sharing](sharing.md)
 
