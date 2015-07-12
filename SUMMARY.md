@@ -67,7 +67,7 @@
    * [Roles](roles.md)
    * [No Fixed Bids](no_fixed_bids.md)
    * [Budget](budget.md)
-   * Rate
+   * [Rate](rate.md)
    * [Typical Projects](typical_projects.md)
    * [Contract](contract.md)
    * Invoices
