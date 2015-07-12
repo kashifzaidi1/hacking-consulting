@@ -54,7 +54,7 @@
    * [Transactional Email](transactional_email.md)
    * [Payment Processing](payment_processing.md)
 * [Measuring](measuring.md)
-   * AAARR
+   * [AAARR](aaarr.md)
 * [Sales](sales.md)
 * [Hiring](hiring.md)
 * [Operations](operations.md)
