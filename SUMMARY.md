@@ -56,6 +56,7 @@
 * [Measuring](measuring.md)
    * [AAARR](aaarr.md)
    * [Instrumentation](instrumentation.md)
+   * Subscription Metrics
 * [Sales](sales.md)
 * [Hiring](hiring.md)
 * [Operations](operations.md)
