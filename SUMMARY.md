@@ -62,6 +62,7 @@
 * [Sales](sales.md)
    * Leads
    * Understanding Product Vision
+   * On Site Customer
 * [Hiring](hiring.md)
 * [Operations](operations.md)
 * [Sharing](sharing.md)
