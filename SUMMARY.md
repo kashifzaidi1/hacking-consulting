@@ -82,7 +82,7 @@
    * [Email](email.md)
    * [Calendar](calendar.md)
    * [Documents](documents.md)
-   * Meetings
+   * [Meetings](meetings.md)
    * Accounting
    * Legal
 * [Sharing](sharing.md)
