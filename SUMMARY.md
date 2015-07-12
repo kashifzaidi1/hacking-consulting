@@ -14,7 +14,7 @@
    * [Test and Learn](test_and_learn.md)
 * [Choose Platforms](choose_platforms.md)
    * [Web Apps](web_apps.md)
-   * Mobile Apps
+   * [Mobile Apps](mobile_apps.md)
 * [Laptop Setup](laptop_setup.md)
 * [Planning](planning.md)
 * [Designing](designing.md)
