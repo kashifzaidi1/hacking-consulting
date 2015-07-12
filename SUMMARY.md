@@ -13,4 +13,5 @@
 * [Measuring](measuring.md)
 * [Sales](sales.md)
 * [Hiring](hiring.md)
+* Operations
 
