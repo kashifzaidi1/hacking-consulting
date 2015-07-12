@@ -58,6 +58,7 @@
    * [Instrumentation](instrumentation.md)
    * [Subscription Metrics](subscription_metrics.md)
    * [A/B Testing](ab_testing.md)
+   * Feature Flags
 * [Sales](sales.md)
 * [Hiring](hiring.md)
 * [Operations](operations.md)
