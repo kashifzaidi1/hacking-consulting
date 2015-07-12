@@ -79,7 +79,7 @@
    * [Quarterly Reviews](quarterly_reviews.md)
 * [Operations](operations.md)
    * [Expenses](expenses.md)
-   * Email
+   * [Email](email.md)
    * Calendar
    * Documents
    * Meetings
