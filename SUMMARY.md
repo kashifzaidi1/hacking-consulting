@@ -63,6 +63,7 @@
    * Leads
    * Understanding Product Vision
    * On Site Customer
+   * NDAs
 * [Hiring](hiring.md)
 * [Operations](operations.md)
 * [Sharing](sharing.md)
