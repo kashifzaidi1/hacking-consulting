@@ -36,6 +36,7 @@
    * [Visual Design](visual_design.md)
    * [User Interviews & Usability Testing](user_interviews_&_usability_testing.md)
 * [Developing](developing.md)
+   * Version Control
 * [Production](production.md)
 * [Measuring](measuring.md)
 * [Sales](sales.md)
