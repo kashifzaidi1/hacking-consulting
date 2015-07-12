@@ -25,7 +25,7 @@
    * [Text Editor](text_editor.md)
 * [Planning](planning.md)
    * [Daily Standups](daily_standups.md)
-   * Tasks
+   * [Tasks](tasks.md)
    * Weekly Meeting
 * [Designing](designing.md)
 * [Developing](developing.md)
