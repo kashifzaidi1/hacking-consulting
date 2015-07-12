@@ -8,5 +8,5 @@
 * [Laptop Setup](laptop_setup.md)
 * [Planning](planning.md)
 * [Designing](designing.md)
-* Developing
+* [Developing](developing.md)
 
