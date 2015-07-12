@@ -88,5 +88,4 @@
 * [Sharing](sharing.md)
    * Blog
    * Research
-   * Open Source
 
