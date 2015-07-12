@@ -11,5 +11,5 @@
 * [Developing](developing.md)
 * [Production](production.md)
 * [Measuring](measuring.md)
-* Sales
+* [Sales](sales.md)
 
