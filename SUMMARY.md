@@ -78,5 +78,6 @@
    * [Compensation](compensation.md)
    * [Quarterly Reviews](quarterly_reviews.md)
 * [Operations](operations.md)
+   * Expenses
 * [Sharing](sharing.md)
 
