@@ -41,7 +41,7 @@
    * [Pair Programming](pair_programming.md)
    * [Test-Driven Development](test-driven_development.md)
    * [Acceptance Tests](acceptance_tests.md)
-   * Refactoring
+   * [Refactoring](refactoring.md)
 * [Production](production.md)
 * [Measuring](measuring.md)
 * [Sales](sales.md)
