@@ -14,5 +14,5 @@
 * [Sales](sales.md)
 * [Hiring](hiring.md)
 * [Operations](operations.md)
-* Sharing
+* [Sharing](sharing.md)
 
