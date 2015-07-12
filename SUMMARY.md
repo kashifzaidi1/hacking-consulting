@@ -89,5 +89,5 @@
    * [Blog](blog.md)
    * [Research](research.md)
    * [Twitter](twitter.md)
-   * Open Source
+   * [Open Source](open_source.md)
 
