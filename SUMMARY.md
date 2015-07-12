@@ -88,6 +88,6 @@
 * [Sharing](sharing.md)
    * [Blog](blog.md)
    * [Research](research.md)
-   * Twitter
+   * [Twitter](twitter.md)
    * Open Source
 
