@@ -38,6 +38,7 @@
 * [Developing](developing.md)
    * [Version Control](version_control.md)
    * [Style Guide](style_guide.md)
+   * Pair Programming
 * [Production](production.md)
 * [Measuring](measuring.md)
 * [Sales](sales.md)
