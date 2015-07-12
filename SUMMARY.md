@@ -10,4 +10,5 @@
 * [Designing](designing.md)
 * [Developing](developing.md)
 * [Production](production.md)
+* Measuring
 
