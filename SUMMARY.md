@@ -74,8 +74,8 @@
 * [Hiring](hiring.md)
    * [Recruiting](recruiting.md)
    * [Interviewing](interviewing.md)
-   * [Offer and Onboarding](offer_and_onboarding.md)
-   * Compensation
+   * Offer and Onboarding
+   * [Compensation](compensation.md)
    * Quarterly Reviews
 * [Operations](operations.md)
 * [Sharing](sharing.md)
