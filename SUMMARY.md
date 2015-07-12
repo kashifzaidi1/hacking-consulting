@@ -82,5 +82,6 @@
    * Email
    * Calendar
    * Documents
+   * Meetings
 * [Sharing](sharing.md)
 
