@@ -74,6 +74,7 @@
 * [Hiring](hiring.md)
    * Recruiting
    * Interviewing
+   * Offer and Onboarding
 * [Operations](operations.md)
 * [Sharing](sharing.md)
 
