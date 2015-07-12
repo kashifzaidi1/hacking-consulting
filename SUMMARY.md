@@ -69,7 +69,7 @@
    * [Budget](budget.md)
    * Rate
    * [Typical Projects](typical_projects.md)
-   * Contract
+   * [Contract](contract.md)
    * Invoices
 * [Hiring](hiring.md)
 * [Operations](operations.md)
