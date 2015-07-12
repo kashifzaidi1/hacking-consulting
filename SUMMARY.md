@@ -81,7 +81,7 @@
    * [Expenses](expenses.md)
    * [Email](email.md)
    * [Calendar](calendar.md)
-   * Documents
+   * [Documents](documents.md)
    * Meetings
    * Accounting
    * Legal
