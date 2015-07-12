@@ -40,7 +40,7 @@
    * [Style Guide](style_guide.md)
    * [Pair Programming](pair_programming.md)
    * [Test-Driven Development](test-driven_development.md)
-   * Acceptance Tests
+   * [Acceptance Tests](acceptance_tests.md)
 * [Production](production.md)
 * [Measuring](measuring.md)
 * [Sales](sales.md)
