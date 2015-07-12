@@ -16,7 +16,7 @@
    * [Web Apps](web_apps.md)
    * [Mobile Apps](mobile_apps.md)
    * [Programming Languages](programming_languages.md)
-   * Frameworks
+   * [Frameworks](frameworks.md)
 * [Laptop Setup](laptop_setup.md)
 * [Planning](planning.md)
 * [Designing](designing.md)
