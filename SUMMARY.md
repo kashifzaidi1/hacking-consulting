@@ -6,7 +6,7 @@
    * [Consulting](consulting.md)
    * [Investment](investment.md)
 * [Product Design Sprint](product_design_sprint.md)
-   * Prep work
+   * [Prep work](prep_work.md)
 * [Choose Platforms](choose_platforms.md)
 * [Laptop Setup](laptop_setup.md)
 * [Planning](planning.md)
