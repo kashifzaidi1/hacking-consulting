@@ -8,6 +8,7 @@
 * [Product Design Sprint](product_design_sprint.md)
    * [Prep work](prep_work.md)
    * [Understand](understand.md)
+   * Diverge
 * [Choose Platforms](choose_platforms.md)
 * [Laptop Setup](laptop_setup.md)
 * [Planning](planning.md)
