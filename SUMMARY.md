@@ -90,4 +90,3 @@
    * [Research](research.md)
    * [Twitter](twitter.md)
    * [Open Source](open_source.md)
-
