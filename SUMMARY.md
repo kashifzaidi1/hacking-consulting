@@ -21,7 +21,7 @@
    * [Liscenses](liscenses.md)
 * [Laptop Setup](laptop_setup.md)
    * [Laptop](laptop.md)
-   * Dotfiles
+   * [Dotfiles](dotfiles.md)
 * [Planning](planning.md)
 * [Designing](designing.md)
 * [Developing](developing.md)
