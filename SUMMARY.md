@@ -17,7 +17,7 @@
    * [Mobile Apps](mobile_apps.md)
    * [Programming Languages](programming_languages.md)
    * [Frameworks](frameworks.md)
-   * Databases
+   * [Databases](databases.md)
 * [Laptop Setup](laptop_setup.md)
 * [Planning](planning.md)
 * [Designing](designing.md)
