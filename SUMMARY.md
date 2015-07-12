@@ -18,7 +18,7 @@
    * [Programming Languages](programming_languages.md)
    * [Frameworks](frameworks.md)
    * [Databases](databases.md)
-   * Liscenses
+   * [Liscenses](liscenses.md)
 * [Laptop Setup](laptop_setup.md)
 * [Planning](planning.md)
 * [Designing](designing.md)
