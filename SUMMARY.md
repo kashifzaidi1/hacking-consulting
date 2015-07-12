@@ -51,7 +51,7 @@
    * [Hosting](hosting.md)
    * [Performance Monitoring](performance_monitoring.md)
    * [Error Tracking](error_tracking.md)
-   * Transactional Email
+   * [Transactional Email](transactional_email.md)
 * [Measuring](measuring.md)
 * [Sales](sales.md)
 * [Hiring](hiring.md)
