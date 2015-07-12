@@ -50,6 +50,7 @@
    * [SSL Certificates](ssl_certificates.md)
    * [Hosting](hosting.md)
    * [Performance Monitoring](performance_monitoring.md)
+   * Error Tracking
 * [Measuring](measuring.md)
 * [Sales](sales.md)
 * [Hiring](hiring.md)
