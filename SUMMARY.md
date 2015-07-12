@@ -61,7 +61,7 @@
    * [Feature Flags](feature_flags.md)
 * [Sales](sales.md)
    * [Leads](leads.md)
-   * Understanding Product Vision
+   * [Understanding Product Vision](understanding_product_vision.md)
    * [On Site Customer](on_site_customer.md)
    * NDAs
    * Roles
