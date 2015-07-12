@@ -11,7 +11,7 @@
    * [Diverge](diverge.md)
    * [Converge](converge.md)
    * [Prototype](prototype.md)
-   * Test and Learn
+   * [Test and Learn](test_and_learn.md)
 * [Choose Platforms](choose_platforms.md)
 * [Laptop Setup](laptop_setup.md)
 * [Planning](planning.md)
