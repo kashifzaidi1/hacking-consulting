@@ -52,6 +52,7 @@
    * [Performance Monitoring](performance_monitoring.md)
    * [Error Tracking](error_tracking.md)
    * [Transactional Email](transactional_email.md)
+   * Payment Processing
 * [Measuring](measuring.md)
 * [Sales](sales.md)
 * [Hiring](hiring.md)
