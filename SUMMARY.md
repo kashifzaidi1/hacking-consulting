@@ -24,6 +24,7 @@
    * [Dotfiles](dotfiles.md)
    * [Text Editor](text_editor.md)
 * [Planning](planning.md)
+   * Daily Standups
 * [Designing](designing.md)
 * [Developing](developing.md)
 * [Production](production.md)
