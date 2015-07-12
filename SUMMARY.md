@@ -83,7 +83,7 @@
    * [Calendar](calendar.md)
    * [Documents](documents.md)
    * [Meetings](meetings.md)
-   * Accounting
+   * [Accounting](accounting.md)
    * Legal
 * [Sharing](sharing.md)
 
