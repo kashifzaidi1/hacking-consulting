@@ -48,6 +48,7 @@
    * [Checklist](checklist.md)
    * [Domain Names](domain_names.md)
    * [SSL Certificates](ssl_certificates.md)
+   * Hosting
 * [Measuring](measuring.md)
 * [Sales](sales.md)
 * [Hiring](hiring.md)
