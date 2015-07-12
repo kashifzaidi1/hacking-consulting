@@ -67,6 +67,7 @@
    * Roles
    * No Fixed Bids
    * Budget
+   * Rate
 * [Hiring](hiring.md)
 * [Operations](operations.md)
 * [Sharing](sharing.md)
