@@ -26,7 +26,7 @@
 * [Planning](planning.md)
    * [Daily Standups](daily_standups.md)
    * [Tasks](tasks.md)
-   * Weekly Meeting
+   * [Weekly Meeting](weekly_meeting.md)
 * [Designing](designing.md)
 * [Developing](developing.md)
 * [Production](production.md)
