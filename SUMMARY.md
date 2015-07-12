@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Guiding Principles
+* [Guiding Principles](guiding_principles.md)
 
