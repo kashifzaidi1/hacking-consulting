@@ -60,6 +60,7 @@
    * [A/B Testing](ab_testing.md)
    * [Feature Flags](feature_flags.md)
 * [Sales](sales.md)
+   * Leads
 * [Hiring](hiring.md)
 * [Operations](operations.md)
 * [Sharing](sharing.md)
