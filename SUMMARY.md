@@ -5,4 +5,5 @@
 * [Time Management](time_management.md)
 * [Product Design Sprint](product_design_sprint.md)
 * [Choose Platforms](choose_platforms.md)
+* Laptop Setup
 
