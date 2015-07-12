@@ -65,6 +65,7 @@
    * On Site Customer
    * NDAs
    * Roles
+   * No Fixed Bids
 * [Hiring](hiring.md)
 * [Operations](operations.md)
 * [Sharing](sharing.md)
