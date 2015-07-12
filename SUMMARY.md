@@ -69,6 +69,7 @@
    * Budget
    * Rate
    * Typical Projects
+   * Contract
 * [Hiring](hiring.md)
 * [Operations](operations.md)
 * [Sharing](sharing.md)
