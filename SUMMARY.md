@@ -87,7 +87,7 @@
    * [Legal](legal.md)
 * [Sharing](sharing.md)
    * [Blog](blog.md)
-   * Research
+   * [Research](research.md)
    * Twitter
    * Open Source
 
