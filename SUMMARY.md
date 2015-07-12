@@ -10,6 +10,5 @@
 * [Designing](designing.md)
 * [Developing](developing.md)
 * [Production](production.md)
-   * Sales
 * [Measuring](measuring.md)
 
