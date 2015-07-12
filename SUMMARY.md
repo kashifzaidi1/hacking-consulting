@@ -61,6 +61,7 @@
    * [Feature Flags](feature_flags.md)
 * [Sales](sales.md)
    * Leads
+   * Understanding Product Vision
 * [Hiring](hiring.md)
 * [Operations](operations.md)
 * [Sharing](sharing.md)
