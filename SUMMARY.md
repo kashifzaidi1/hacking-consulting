@@ -68,6 +68,7 @@
    * No Fixed Bids
    * Budget
    * Rate
+   * Typical Projects
 * [Hiring](hiring.md)
 * [Operations](operations.md)
 * [Sharing](sharing.md)
