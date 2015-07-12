@@ -70,7 +70,7 @@
    * [Rate](rate.md)
    * [Typical Projects](typical_projects.md)
    * [Contract](contract.md)
-   * Invoices
+   * [Invoices](invoices.md)
 * [Hiring](hiring.md)
 * [Operations](operations.md)
 * [Sharing](sharing.md)
