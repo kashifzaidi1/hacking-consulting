@@ -12,5 +12,5 @@
 * [Production](production.md)
 * [Measuring](measuring.md)
 * [Sales](sales.md)
-* Hiring
+* [Hiring](hiring.md)
 
