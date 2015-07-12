@@ -86,7 +86,7 @@
    * [Accounting](accounting.md)
    * [Legal](legal.md)
 * [Sharing](sharing.md)
-   * Blog
+   * [Blog](blog.md)
    * Research
    * Twitter
    * Open Source
