@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Guiding Principles](guiding_principles.md)
-* Time Management
+* [Time Management](time_management.md)
 
