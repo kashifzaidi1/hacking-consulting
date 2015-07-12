@@ -32,7 +32,7 @@
    * [Sketches](sketches.md)
    * [Wireframes](wireframes.md)
    * [User Interface](user_interface.md)
-   * Interaction Design
+   * [Interaction Design](interaction_design.md)
 * [Developing](developing.md)
 * [Production](production.md)
 * [Measuring](measuring.md)
