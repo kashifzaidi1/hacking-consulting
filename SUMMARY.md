@@ -45,6 +45,7 @@
    * [Code Reviews](code_reviews.md)
    * [Continuous Integration](continuous_integration.md)
 * [Production](production.md)
+   * Checklist
 * [Measuring](measuring.md)
 * [Sales](sales.md)
 * [Hiring](hiring.md)
