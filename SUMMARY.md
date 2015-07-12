@@ -29,7 +29,7 @@
    * [Weekly Meeting](weekly_meeting.md)
    * [Altering the Process](altering_the_process.md)
 * [Designing](designing.md)
-   * Sketches
+   * [Sketches](sketches.md)
 * [Developing](developing.md)
 * [Production](production.md)
 * [Measuring](measuring.md)
