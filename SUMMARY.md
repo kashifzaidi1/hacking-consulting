@@ -30,7 +30,7 @@
    * [Altering the Process](altering_the_process.md)
 * [Designing](designing.md)
    * [Sketches](sketches.md)
-   * Wireframes
+   * [Wireframes](wireframes.md)
 * [Developing](developing.md)
 * [Production](production.md)
 * [Measuring](measuring.md)
